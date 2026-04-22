@@ -150,7 +150,7 @@ The choice of task type depends on a single question: what format do you want fo
 
 | Question                                  | Label |
 |-------------------------------------------| ----- |
-| What will the student's final grade be?   | float FinalGradeWhat |
+| What will the student's final grade be?   | float FinalGrade |
 | What is the sale price of this property? |  float Price |
 | How many hours will this project take? | float Hours | 
 
